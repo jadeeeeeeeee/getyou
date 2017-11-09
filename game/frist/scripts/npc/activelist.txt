@@ -1,0 +1,8 @@
+"Whitelist"
+{
+	"npc_dota_hero_pudge"			"-1"
+	"npc_dota_hero_mirana"			"-1"
+	"npc_dota_hero_vengefulspirit" 	"-1"
+	"npc_dota_hero_tusk"			"-1"
+
+}
